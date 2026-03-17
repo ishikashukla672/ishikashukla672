@@ -51,7 +51,7 @@ My primary interests lie in **problem solving** and **competitive programming**,
 
 <td align="center" width="33%">
 
-###  CODEFORCES
+### CODEFORCES
 
 <a href="https://codeforces.com/profile/avid_dace_32">
 <img src="https://img.shields.io/badge/Profile-1f6feb?style=for-the-badge&logo=codeforces&logoColor=white"/>
@@ -85,15 +85,14 @@ My primary interests lie in **problem solving** and **competitive programming**,
 </table>
 ---
 
-### GitHub Activity Graph
-
+# GitHub Activity Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishikashukla672&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishikashukla672&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
-### Languages
+# Languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikashukla672&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -104,7 +103,7 @@ My primary interests lie in **problem solving** and **competitive programming**,
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishikashukla672&theme=tokyonight"/>
 </p>
 
-### Contribution Snake
+#Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>

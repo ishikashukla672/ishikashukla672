@@ -22,10 +22,6 @@ My primary interests lie in **problem solving** and **competitive programming**,
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212744275-76e0bfe3-8e9b-4c6e-9d02-6a5f2c2c932a.gif" width="85%">
 </p>
-
-
----
-
 ##  Competitive Programming
 
 <table align="center" width="100%">
@@ -39,6 +35,10 @@ My primary interests lie in **problem solving** and **competitive programming**,
 <img src="https://leetcard.jacoblin.cool/avid_dace?theme=dark&font=Fira%20Code&ext=heatmap"/>
 </a>
 
+<br><br>
+
+<img src="https://img.shields.io/badge/Contest_Rating-1568-orange?style=for-the-badge"/>
+
 </td>
 
 <td align="center" width="33%">
@@ -46,12 +46,16 @@ My primary interests lie in **problem solving** and **competitive programming**,
 ###  CODEFORCES
 
 <a href="https://codeforces.com/profile/avid_dace_32">
-<img src="https://img.shields.io/badge/PROFILE-1f6feb?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Profile-1f6feb?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Rating-1206-blue?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Rank-Pupil-2ecc71?style=for-the-badge"/>
 
 </td>
 
@@ -71,7 +75,6 @@ My primary interests lie in **problem solving** and **competitive programming**,
 
 </tr>
 </table>
-
 ---
 
 ### GitHub Activity Graph
@@ -101,7 +104,7 @@ My primary interests lie in **problem solving** and **competitive programming**,
 
 ---
 
-<h2 align="center">🛠 『 TECH ARSENAL 』</h2>
+<h2 align="center"> 『 TECH ARSENAL 』</h2>
 
 <h3 align="center">Programming Languages</h3>
 
@@ -138,7 +141,7 @@ My primary interests lie in **problem solving** and **competitive programming**,
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=9AA4FF&center=true&vCenter=true&width=500&lines=system.shutdown();;Good+Night+Developer+🌙"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=9AA4FF&center=true&vCenter=true&width=500&lines=system.shutdown();;Good+Night+Developer+zzzzzzzzzzzz"/>
 </p>
 
 <p align="center">

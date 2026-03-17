@@ -1,16 +1,24 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29&height=200&section=header&text=Happy%20Coding&fontSize=35&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,100:090979&height=250&section=header&text=Happy%20Coding&fontSize=45&fontColor=ffffff&animation=twinkling"/>
+</p>
+
+<h1 align="center">Hi, I'm Ishika</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=800&color=7AA2FF&center=true&vCenter=true&width=700&lines=Competitive+Programming+Enthusiast;Learning+DSA+%26+Development;Problem+Solving+Focused"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=9AA4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ishika;Competitive+Programming+Enthusiast;Learning+DSA+%26+Development"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,git,github,vscode&theme=dark"/>
 </p>
 
 <p align="center">
-Electronics and Communication Engineering student at IIITDM Jabalpur
+Electronics and Communication Engineering student at <b>IIITDM Jabalpur</b>
 </p>
 
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749726-2f0e9d9f-cc33-4a08-b2c1-2f9d45f93f9e.gif" width="100%">
+</p>
 ---
 
 ### About Me
